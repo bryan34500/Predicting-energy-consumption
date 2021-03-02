@@ -1,4 +1,4 @@
-![image](C:/Users/BP/Desktop/Videns/photo energy consumption - 1.PNG)
+![photo energy consumption - 1](https://user-images.githubusercontent.com/29388984/109709407-71260900-7b6a-11eb-82fa-e21a7e9bf9a3.PNG)
 
 # Predicting-energy-consumption
 
