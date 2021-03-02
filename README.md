@@ -37,5 +37,3 @@ The dataset describes a household's environmental conditions and electricity usa
 |Tdewpoint  |from weather station Â°C|
 |v1|unknown|
 |v2|unknown|
-![image](https://user-images.githubusercontent.com/29388984/109706537-14751f00-7b67-11eb-836e-1b5210f90db7.png)
-
