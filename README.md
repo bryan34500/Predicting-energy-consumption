@@ -40,7 +40,7 @@ Predicting the electricity usage of the household (the variable named 'Appliance
 |RH_out|Humidity outside (from weather station), in %|
 |Wind speed|from weather station, in m/s |
 |Visibility|from weather station, in km |
-|Tdewpoint  |from weather station Â°C|
+|Tdewpoint  |from weather station Celsius|
 |v1|unknown|
 |v2|unknown|
 
